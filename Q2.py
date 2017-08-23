@@ -8,3 +8,4 @@ def x35(num):
         elif(i%3==0 and i%5==0):
             o.append(i)
     return len(o)
+x35(int(input()))
